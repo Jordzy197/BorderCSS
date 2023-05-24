@@ -1,0 +1,33 @@
+body 
+{
+	background: url(chou.gif);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.main1
+{
+	border: dotted darkblue;
+	align:center;
+}
+.border 
+{
+  height: 150px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.bod 
+{
+  border: 5px inset green;
+}
+
+.eb 
+{
+  border: 5px double red;
+}
+
+.dh 
+{
+  border: 5px outset violet;
+}
